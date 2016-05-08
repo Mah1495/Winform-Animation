@@ -12,6 +12,7 @@ namespace Uian
             timer1.Start();
         }
         // this is from github
+        //this is from visual studio
         private void timer1_Tick(object sender, EventArgs e)
         {
             if (button1.Width < 250)
